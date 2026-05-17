@@ -1,1 +1,1 @@
-Contains raw and cleaned datasets used for the Apple marketing analytics project.
+Contains Excel analysis tasks including engagement analysis, campaign ROI, hashtag analysis, and follower growth insights.
